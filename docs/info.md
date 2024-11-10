@@ -8,13 +8,10 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-
-Explain how your project works
+Using a clock divider and 2-input muxs, I created a circuit that flips between my initials.
 
 ## How to test
-
-Explain how to use your project
+Who needs tests?
 
 ## External hardware
-
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Switch at IN0, seven segment display at OUT0-OUT6
